@@ -1071,6 +1071,7 @@ def main():
     """
     funcion principal del programa
     """
+    menu()
     
 if __name__ == "__main__":
     main()
