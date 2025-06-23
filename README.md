@@ -33,4 +33,7 @@ CaFiLite es una herramienta en Python para realizar cálculos financieros básic
 ▶️ Cómo Ejecutar
 
 bash
-python calculos_basicos.py
+python cafilite.py
+
+Desarrollada por:
+Likshma Studio
